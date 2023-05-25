@@ -2,7 +2,7 @@
 
 # Liteboho Lethole 
 
-MITxPRO course
+MITxPRO course <br>
 This resposetory displays the work completed and editied whilst doing the MITxPRO course: Professional Certificate in Coding: Full Stack Development with MERN.
 
 ## Contact me
