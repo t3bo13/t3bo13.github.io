@@ -7,7 +7,7 @@ This repository displays the work completed and edited while doing the MITxPRO c
 
 ## Eyes
 
-![Image](.eye-exercise/2eyes.png)
+![Image](eye-exercise/2eyes.png)
 
 ## Contact me
 
